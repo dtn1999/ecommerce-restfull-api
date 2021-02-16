@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "build",
+    "target": "ES2018",
+    "module": "commonjs",
+    "strict": true,
+    "lib": ["ESNext"],
+    "esModuleInterop": true
+  },
+  "exclude": ["build", "tests"]
+}

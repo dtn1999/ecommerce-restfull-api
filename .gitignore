@@ -1,0 +1,10 @@
+# ignore all node module
+**node_modules
+# ignore all env files
+**.env
+
+# ignore build
+
+**build/**
+**bootstrap
+**uploads/**
